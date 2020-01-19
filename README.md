@@ -1,7 +1,7 @@
 # Char-RNN-Username-Generation
 Generating Reddit Usernames using Char-RNNs
 
-[Kaggle Notebook](https://www.kaggle.com/function9/char-rnn-reddit-username-generation?scriptVersionId=27191244)
+[Kaggle Notebook](https://www.kaggle.com/function9/char-rnn-reddit-username-generation?scriptVersionId=27191244) <br/>
 [Kaggle Dataset](https://www.kaggle.com/colinmorris/reddit-usernames)
 
 # Results
